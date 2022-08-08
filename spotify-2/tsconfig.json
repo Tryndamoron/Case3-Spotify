@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/Sidebar.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/Sidebar.js", "_middleware.js", "middleware.ts"],
   "exclude": ["node_modules"]
 }
